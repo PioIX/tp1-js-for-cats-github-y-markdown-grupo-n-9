@@ -1,4 +1,4 @@
-## Guía JS para Gatos
+# Guía JS para Gatos
 
 ### (HTTPS://JSPARAGATOS.COM/)
 
