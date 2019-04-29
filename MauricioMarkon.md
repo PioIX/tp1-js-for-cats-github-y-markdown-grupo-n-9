@@ -1,6 +1,6 @@
-### Guía JS para Gatos
+## Guía JS para Gatos
 
-## (HTTPS://JSPARAGATOS.COM/)
+### (HTTPS://JSPARAGATOS.COM/)
 
 **1-**	¿Qué fue lo que más te gusto de la guía?
 
