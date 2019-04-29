@@ -1,8 +1,6 @@
----
-title: Guía JS para Gatos
-author: (HTTPS://JSPARAGATOS.COM/)
-date: 29 de abril
----
+### Guía JS para Gatos
+
+## (HTTPS://JSPARAGATOS.COM/)
 
 **1-**	¿Qué fue lo que más te gusto de la guía?
 
