@@ -11,14 +11,12 @@ gatos.
 
 __2- ¿Qué fue lo más fácil?__
 
->La guia en sí me pareció bastante fácil, pero diría que los primeros ejercicios fueron los que no tuvieron nada de dificultad siendo que 
-se trataban de conceptos básicos que se podían interpretar facilmente.
+>La guia en sí me pareció bastante fácil, pero diría que los primeros ejercicios fueron los que no tuvieron nada de dificultad siendo que se trataban de conceptos básicos para el entendimiento de Java.
 
 
 __3- ¿Qué fue lo más difícil?__
 
->A pesar de que la guía en general no tuvo tanta complejidad, sí consideré que en cierto punto la dificultad aumentó cuando las funciones
-comenzaron a ser más extensas.
+>A pesar de que la guía en general no tuvo tanta complejidad, sí consideré que en cierto punto la dificultad aumentó cuando las funciones comenzaron a ser más extensas.
 
 
 __4- ¿Qué conocías de otros lenguajes (nombrar el lenguaje)?__
