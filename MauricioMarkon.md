@@ -1,7 +1,5 @@
----
 title: Guía JS para Gatos
 author: (HTTPS://JSPARAGATOS.COM/)
----
 
 **1-**	¿Qué fue lo que más te gusto de la guía?
 
